@@ -1,7 +1,8 @@
 Installation:
 
-Extract all the contents to your folder. Make sure you also extract bg.exe as it is required for mouse and graphics.
+Put all the contents to your folder. Make sure you also include bg.exe as it is required for the GUI & mouse response.
 Optionally, you can put bg.exe on your system folder (%windir%\system32), so you can use it later if you want to.
+bg.exe is not  a virus, the "bg" stands for "Batch Graphics" and not a Trojan or worm or anything.
 
 
 
@@ -25,7 +26,7 @@ Then you can use the following tools:
  Multiplies one integer by another integer
 
 
- ÷ | / (Divide)
+ Ã· | / (Divide)
 
  Divides one integer with another
 
@@ -78,7 +79,7 @@ Also, there are some other menus, such as:
  the color code.
 
  There is also an option for alternate division and multiplication
- symbols. This pretty much replaces regular symbols (÷ and x) with
+ symbols. This pretty much replaces regular symbols (Ã· and x) with
  / and *.
 
 
